@@ -1,0 +1,4 @@
+This projects aims at coloring fibers of a tractogram based on a number of different criteria:
+- local orientation
+- global orientation
+- depth within white matter
